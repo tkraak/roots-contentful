@@ -72,7 +72,7 @@ contentful = require 'roots-contentful'
 marked     = require 'marked'
 
 locals:
-  marked: markdown
+  markdown: marked
 ```
 
 See the [roots documentation](http://roots.cx/docs/configuration) for more details.
